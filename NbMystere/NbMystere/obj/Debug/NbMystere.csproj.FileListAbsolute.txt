@@ -1,0 +1,228 @@
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\bin\Debug\NbMystere.exe.config
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\bin\Debug\NbMystere.exe
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\bin\Debug\NbMystere.pdb
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\NbMystere.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\MainWindow.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\App.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\NbMystere_MarkupCompile.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\NbMystere_MarkupCompile.lref
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\MainWindow.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\NbMystere.g.resources
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\NbMystere.Properties.Resources.resources
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\NbMystere.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\NbMystere.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\NbMystere.exe
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\NbMystere.pdb
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\NewPlayer.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\NewPlayer.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\RunWin.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\ShowPlayer.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\RunWin.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v1\NbMystere\obj\Debug\ShowPlayer.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\bin\Debug\NbMystere.exe.config
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\bin\Debug\NbMystere.exe
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\bin\Debug\NbMystere.pdb
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\MainWindow.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\NewPlayer.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\RunWin.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\ShowPlayer.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\App.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\NbMystere_MarkupCompile.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\NbMystere_MarkupCompile.lref
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\MainWindow.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\NewPlayer.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\RunWin.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\ShowPlayer.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\NbMystere.g.resources
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\NbMystere.Properties.Resources.resources
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\NbMystere.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\NbMystere.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\NbMystere.exe
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\NbMystere.pdb
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\NbMystere.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\Identification.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\Identification.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\Retry.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v3\NbMystere\obj\Debug\Retry.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\bin\Debug\NbMystere.exe.config
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\bin\Debug\NbMystere.exe
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\bin\Debug\NbMystere.pdb
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\bin\Debug\MySql.Data.dll
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\NbMystere.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\Identification.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\MainWindow.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\NewPlayer.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\Retry.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\RunWin.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\ShowPlayer.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\App.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\NbMystere_MarkupCompile.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\NbMystere_MarkupCompile.lref
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\Identification.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\MainWindow.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\NewPlayer.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\Retry.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\RunWin.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\ShowPlayer.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\NbMystere.g.resources
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\NbMystere.Properties.Resources.resources
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\NbMystere.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\NbMystere.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\NbMystere.exe
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v4\NbMystere\obj\Debug\NbMystere.pdb
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\bin\Debug\NbMystere.exe.config
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\bin\Debug\NbMystere.exe
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\bin\Debug\NbMystere.pdb
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\bin\Debug\MySql.Data.dll
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\Identification.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\MainWindow.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\NewPlayer.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\Retry.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\RunWin.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\ShowPlayer.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\App.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere_MarkupCompile.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere_MarkupCompile.lref
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\Identification.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\MainWindow.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\NewPlayer.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\Retry.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\RunWin.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\ShowPlayer.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere.g.resources
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere.Properties.Resources.resources
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere.exe
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere.pdb
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\bin\Debug\NbMystere.exe.config
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\bin\Debug\NbMystere.exe
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\bin\Debug\NbMystere.pdb
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere.csprojResolveAssemblyReference.cache
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\Identification.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\MainWindow.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\NewPlayer.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\Retry.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\RunWin.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\ShowPlayer.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\App.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere_MarkupCompile.cache
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere_MarkupCompile.lref
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\Identification.baml
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\MainWindow.baml
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\NewPlayer.baml
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\Retry.baml
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\RunWin.baml
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\ShowPlayer.baml
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere.g.resources
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere.Properties.Resources.resources
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere.csproj.GenerateResource.Cache
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere.exe
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\obj\Debug\NbMystere.pdb
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\bin\Debug\ClassMetier.dll
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v5\NbMystere\bin\Debug\ClassMetier.pdb
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\bin\Debug\NbMystere.exe.config
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\bin\Debug\NbMystere.exe
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\bin\Debug\NbMystere.pdb
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\bin\Debug\ClassMetier.dll
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\bin\Debug\ClassMetier.pdb
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.csprojResolveAssemblyReference.cache
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\Identification.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\MainWindow.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NewPlayer.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\Retry.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\RunWin.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\ShowPlayer.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\App.g.cs
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere_MarkupCompile.cache
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere_MarkupCompile.lref
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\Identification.baml
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\MainWindow.baml
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NewPlayer.baml
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\Retry.baml
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\RunWin.baml
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\ShowPlayer.baml
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.g.resources
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.Properties.Resources.resources
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.csproj.GenerateResource.Cache
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.exe
+C:\Users\mc714442\Desktop\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.pdb
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\bin\Debug\NbMystere.exe.config
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\bin\Debug\NbMystere.exe
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\bin\Debug\NbMystere.pdb
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\bin\Debug\ClassMetier.dll
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\bin\Debug\ClassMetier.pdb
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\Identification.g.cs
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\MainWindow.g.cs
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NewPlayer.g.cs
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\Retry.g.cs
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\RunWin.g.cs
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\ShowPlayer.g.cs
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\App.g.cs
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere_MarkupCompile.cache
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere_MarkupCompile.lref
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\Identification.baml
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\MainWindow.baml
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NewPlayer.baml
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\Retry.baml
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\RunWin.baml
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\ShowPlayer.baml
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.g.resources
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.Properties.Resources.resources
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.csproj.GenerateResource.Cache
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.exe
+C:\Users\mc714442\Downloads\Projet C#\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.pdb
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\bin\Debug\NbMystere.exe.config
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\bin\Debug\NbMystere.exe
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\bin\Debug\NbMystere.pdb
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\bin\Debug\MySql.Data.dll
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\Identification.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\MainWindow.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\NewPlayer.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\Retry.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\RunWin.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\ShowPlayer.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\App.g.cs
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere_MarkupCompile.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere_MarkupCompile.lref
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\Identification.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\MainWindow.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\NewPlayer.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\Retry.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\RunWin.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\ShowPlayer.baml
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.g.resources
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.Properties.Resources.resources
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.exe
+C:\Users\chris\Desktop\C# Jeu Nb Mystère\Version\Projet_NbMystere v6\NbMystere\obj\Debug\NbMystere.pdb
+C:\Users\chris\Desktop\NbMystere\NbMystere\bin\Debug\NbMystere.exe.config
+C:\Users\chris\Desktop\NbMystere\NbMystere\bin\Debug\NbMystere.exe
+C:\Users\chris\Desktop\NbMystere\NbMystere\bin\Debug\NbMystere.pdb
+C:\Users\chris\Desktop\NbMystere\NbMystere\bin\Debug\MySql.Data.dll
+C:\Users\chris\Desktop\NbMystere\NbMystere\bin\Debug\MySql.Data.xml
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\NbMystere.csprojResolveAssemblyReference.cache
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\NbMystere.csproj.NbMystere.exe.config
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\Identification.g.cs
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\MainWindow.g.cs
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\NewPlayer.g.cs
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\Retry.g.cs
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\RunWin.g.cs
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\ShowPlayer.g.cs
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\App.g.cs
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\NbMystere_MarkupCompile.cache
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\NbMystere_MarkupCompile.lref
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\Identification.baml
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\MainWindow.baml
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\NewPlayer.baml
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\Retry.baml
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\RunWin.baml
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\ShowPlayer.baml
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\NbMystere.g.resources
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\NbMystere.Properties.Resources.resources
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\NbMystere.csproj.GenerateResource.Cache
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\NbMystere.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\NbMystere.exe
+C:\Users\chris\Desktop\NbMystere\NbMystere\obj\Debug\NbMystere.pdb

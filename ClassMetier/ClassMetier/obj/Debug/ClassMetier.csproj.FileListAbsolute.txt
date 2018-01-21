@@ -1,0 +1,6 @@
+c:\users\mc714442\documents\visual studio 2017\Projects\ClassMetier\ClassMetier\bin\Debug\ClassMetier.dll
+c:\users\mc714442\documents\visual studio 2017\Projects\ClassMetier\ClassMetier\bin\Debug\ClassMetier.pdb
+c:\users\mc714442\documents\visual studio 2017\Projects\ClassMetier\ClassMetier\bin\Debug\MySql.Data.dll
+c:\users\mc714442\documents\visual studio 2017\Projects\ClassMetier\ClassMetier\obj\Debug\ClassMetier.csprojResolveAssemblyReference.cache
+c:\users\mc714442\documents\visual studio 2017\Projects\ClassMetier\ClassMetier\obj\Debug\ClassMetier.dll
+c:\users\mc714442\documents\visual studio 2017\Projects\ClassMetier\ClassMetier\obj\Debug\ClassMetier.pdb

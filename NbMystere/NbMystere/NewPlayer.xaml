@@ -1,0 +1,21 @@
+﻿<Window x:Class="NbMystere.NewPlayer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NbMystere"
+        mc:Ignorable="d"
+        Title="Enregistrement" Height="300" Width="300" ResizeMode="NoResize">
+    <Grid>
+        <TextBlock x:Name="lblTitleNewPlayer" Text="Enregistrement" TextAlignment="Center" Margin="0,0,0,237"/>
+
+        <TextBlock x:Name="lblNom" TextAlignment="Justify" Margin="10,79,196,163" Text="Nom"/>
+        <TextBox x:Name="txtNom" Margin="100,79,10,163" />
+
+        <TextBlock x:Name="lblMdp" Margin="10,130,196,111" Text="Mot de Passe"/>
+        <TextBox x:Name="txtMdp" Margin="100,130,10,111" />
+
+        <Button x:Name="addButton" Margin="70,215,70,19" Click="addButton_Click">Ajouter</Button>
+        <TextBlock x:Name="lblTentative" Text="" TextAlignment="Center" Margin="0,32,0,205"/>
+    </Grid>
+</Window>

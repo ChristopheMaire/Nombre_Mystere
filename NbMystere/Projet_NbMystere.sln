@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NbMystere", "NbMystere\NbMystere.csproj", "{AFCC3081-6F42-4800-813B-5300E2B5F6EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCC3081-6F42-4800-813B-5300E2B5F6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCC3081-6F42-4800-813B-5300E2B5F6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCC3081-6F42-4800-813B-5300E2B5F6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCC3081-6F42-4800-813B-5300E2B5F6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {361E2817-84AD-48C6-8264-1E0896E7CE86}
+	EndGlobalSection
+EndGlobal
