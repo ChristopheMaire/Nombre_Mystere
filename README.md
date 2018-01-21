@@ -8,6 +8,6 @@
 
 
 ## Contenu du projet :
-ClassMetier	 : Regroupe toutes les class (Joueur.cs, ListJoueur.cs et Partie.cs);
-NbMystere	 : Regroupe toutes les fenêtres WPF;
-joueur.sql	 : La base de donnée contenant tous les joueurs;
+* ClassMetier	 : Regroupe toutes les class (Joueur.cs, ListJoueur.cs et Partie.cs);
+* NbMystere		 : Regroupe toutes les fenêtres WPF;
+* joueur.sql	 : La base de donnée contenant tous les joueurs;
